@@ -23,6 +23,10 @@ module NavigationHelpers
     # when /^the details page for "(.*)"$/i  # I am on the details page for "Star Wars"
     # movie_path(Movie.find_by_title($1))
 
+    # ** Needed for CA5 **
+    # when /^the similar movies page for "(.*)"$/i  # I am on the similar movies page for "Star Wars"
+    # search_directors_path(Movie.find_by_title($1))
+
     # Add more mappings here.
     # Here is an example that pulls values out of the Regexp:
     #

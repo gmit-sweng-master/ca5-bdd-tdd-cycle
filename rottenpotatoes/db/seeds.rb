@@ -7,7 +7,7 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 movies = [{:title => 'Star Wars ', :rating => 'PG', :director => 'George Lucas', :release_date => '25-May-1977'},
-    	  {:title => 'Blade Runner', :rating => 'PG', :director => 'Ridley Scott ', :release_date => '26-June-1982'},
+    	  {:title => 'Blade Runner', :rating => 'PG', :director => 'Ridley Scott', :release_date => '26-June-1982'},
     	  {:title => 'Alien', :rating => 'R', :release_date => '21-May-1979'},
       	{:title => 'THX-1138' , :rating => 'R', :director => 'George Lucas', :release_date => '10-March-1971'},
   	 ]

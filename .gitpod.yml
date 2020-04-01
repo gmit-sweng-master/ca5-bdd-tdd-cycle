@@ -1,2 +1,3 @@
 tasks:
   - init: echo "Software Engineering CA5 - BDD/TDD Cycle"
+  - command: cd rottenpotatoes && bundle install
