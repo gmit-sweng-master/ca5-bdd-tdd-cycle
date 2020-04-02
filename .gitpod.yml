@@ -1,3 +1,5 @@
 tasks:
-  - init: echo "Software Engineering CA5 - BDD/TDD Cycle"
   - command: cd rottenpotatoes && bundle install
+vscode:
+  extensions:
+    - alexkrechik.cucumberautocomplete@2.14.1:J/ljPrPn1S+KgN2xeXFE9A==  
